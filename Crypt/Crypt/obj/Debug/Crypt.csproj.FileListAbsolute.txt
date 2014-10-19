@@ -1,0 +1,6 @@
+c:\users\alessandro\documents\visual studio 2012\Projects\Crypt\Crypt\bin\Debug\Crypt.exe.config
+c:\users\alessandro\documents\visual studio 2012\Projects\Crypt\Crypt\bin\Debug\Crypt.exe
+c:\users\alessandro\documents\visual studio 2012\Projects\Crypt\Crypt\bin\Debug\Crypt.pdb
+c:\users\alessandro\documents\visual studio 2012\Projects\Crypt\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+c:\users\alessandro\documents\visual studio 2012\Projects\Crypt\Crypt\obj\Debug\Crypt.exe
+c:\users\alessandro\documents\visual studio 2012\Projects\Crypt\Crypt\obj\Debug\Crypt.pdb
